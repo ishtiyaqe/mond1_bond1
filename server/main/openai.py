@@ -11,7 +11,7 @@ import requests
 import time
 
 # Initialize OpenAI API key
-client = OpenAI(api_key = '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')
+client = OpenAI(api_key = 'Your_api_key')
 
 
 
